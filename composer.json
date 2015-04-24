@@ -1,16 +1,13 @@
 {
-    "name": "henry/yii2-app-basic",
+    "name": "henrydewa/yii2-app-basic",
     "description": "Yii 2 Basic Application Template With Ready To Use User Model",
     "keywords": ["yii2", "framework", "basic", "application template"],
-    "homepage": "http://www.yiiframework.com/",
+    "homepage": "http://www.finasmart.com/",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/HenryDewa/yii2-app-basic/issues?state=open",
+        "source": "https://github.com/HenryDewa/yii2-app-basic"
     },
     "minimum-stability": "stable",
     "require": {
