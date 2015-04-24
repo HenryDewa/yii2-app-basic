@@ -28,14 +28,14 @@ $config = [
             // 'useFileTransport' to false and configure a transport
             // for the mailer to send real emails.
             'useFileTransport' => true,
-            'transport' => [
+            /**'transport' => [
                 'class' => 'Swift_SmtpTransport',
                 'host' => 'smtp.gmail.com',
-                'username' => 'smdewa.intech@gmail.com',
-                'password' => 'ppn1000%',
+                'username' => '',
+                'password' => '',
                 'port' => '587',
                 'encryption' => 'tls',
-            ],
+            ],**/
         ],
         'urlManager' => [
             //'class' => 'yii\web\UrlManager',
