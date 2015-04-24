@@ -60,7 +60,8 @@ http://localhost/basic/web/
 Getting started
 -------------
 After you install the application, you have to conduct the following steps to initialize the installed application. You only need to do these once for all.
-### Database
+
+
 
 1. Edit the file `config/db.php` with real data, for example:
 
